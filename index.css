@@ -1,0 +1,231 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.c1{
+    background-color:black;
+  
+   
+    
+    width: 600px;
+    height: 700px;
+   
+}
+.c2{
+    background-color:darkgray;
+  
+   
+    width: 600px;
+    height: 700px;
+    
+}
+.b1{
+    margin-left: 140px;
+    margin-right: 100px;
+}
+.img1{
+    width: 250px;
+    height: 280px;
+    border: 2px solid;
+    border-radius: 200px;
+    margin-left: 180px;
+    margin-top: 30px;
+
+}
+
+
+
+.b1{
+    display:flex;
+    
+}
+.te{
+    margin-top: 100px;
+    font-size:xx-large;
+    font-weight: 300;
+    text-align: center;
+    font-weight: 300;
+}
+.logo{
+    font-size: xx-large;
+    font-weight:300 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 100px;
+    margin-bottom: 130px;
+    font-size:x-large;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    height: 60px;
+}
+a{
+    display: block;
+    font-size: large;
+    margin: 10px;
+  
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    height: 30px;
+    padding-top: 10px;
+}
+.time{
+    font-size: medium;
+    font-weight: 200;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 40px;
+    color: white;
+    
+}
+#nam:hover{
+    background-color: antiquewhite;
+}
+#nam1:hover{
+    background-color:aqua;
+}
+#nam3:hover{
+    background-color:blueviolet;
+}
+#nam4:hover{
+    background-color:chartreuse;
+}
+.first{
+    background-color: white;
+  
+   
+    
+    width: 600px;
+    height: 700px;
+    
+
+}
+.second{
+    background-color:blue;
+  
+   
+    width: 600px;
+    height: 700px;
+}
+.head{
+    color: black;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.bottom{
+    color: black;
+    text-align: center;
+    font-size:large;
+
+}
+.work{
+    display: flex;
+    margin-left: 140px;
+    margin-right: 100px;
+}
+.head1{
+    color:white;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.bottom1{
+    color:white;
+    text-align: center;
+    font-size: large;
+}
+.pic1{
+    width: 300px;
+    height: 150px;
+    padding-top: 50px;
+}
+.pic2{
+    width: 300px;
+    height: 150px;
+    padding-top: 50px;
+}
+.pic3{
+    width: 300px;
+    height: 150px;
+
+}
+.pic4{
+    width: 300px;
+    height: 150px;
+}
+.pic5{
+    width: 300px;
+    height: 150px;
+}
+.pic6{
+    width: 300px;
+    height: 150px;
+}
+.pics{
+    display: flex;
+}
+.ravi{
+    background-color:darkgrey ;
+       
+    width: 600px;
+    height: 700px;
+    text-align: center;
+    
+    
+}
+.chandra{
+    background-color:green ;
+       
+    width: 600px;
+    height: 700px;
+    
+}
+.third{
+    display: flex;
+    margin-left: 140px;
+    margin-right: 100px;
+}
+.yeap{
+    padding-top: 100px;
+}
+.team{
+    padding-top: 180px;
+    font-size: larger;
+    padding-bottom: 15px;
+    
+}
+.rent{
+    padding-left: 50px;
+    padding-top: 100px;
+
+}
+.come{
+    font-size: medium;
+    padding-left: 50px;
+    padding-top: 15px;
+    color:greenyellow;
+}
+.ice{
+    margin-left: 190px;
+    margin-top: 50px;
+    
+}
+.tute{
+    background-color: black;
+    color: white;
+    height: 100px;
+    margin-left: 140px;
+    margin-right: 180px;
+    
+    
+}
+.tut{
+    font-size:large;
+    padding-top: 30px;
+}
+span{
+    text-decoration: underline
+}
